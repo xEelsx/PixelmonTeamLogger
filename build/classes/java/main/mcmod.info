@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "pixelmonteamlogger",
+        "name": "PixelmonTeamLogger",
+        "version": "1.0",
+        "description": "Pulls players party & exports it to an external source",
+        "dependencies": [
+            "spongeapi@7.3.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.3.0"
+        ]
+    }
+]

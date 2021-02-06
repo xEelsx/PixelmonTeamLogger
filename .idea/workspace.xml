@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e526f450-5678-4a0f-a2f5-0bea5ce8edef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="C:\Users\Kieran\Documents\GitHub\xEelsx.github.io\PixelmonTeamLogger">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nyi5sWioezAYcy84SwltYzQpXC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kieran\Documents\GitHub\xEelsx.github.io\PixelmonTeamLogger\src\main\resources" />
+      <recent name="C:\Users\Kieran\Documents\GitHub\xEelsx.github.io\PixelmonTeamLogger\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PixelmonTeamLogger [build]">
+    <configuration name="PixelmonTeamLogger [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PixelmonTeamLogger [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PixelmonTeamLogger build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" value="PixelmonTeamLogger build" />
+        <option name="externalProjectPath" value="C:\Users\Kieran\Documents\GitHub\xEelsx.github.io\PixelmonTeamLogger" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PixelmonTeamLogger [build]" />
+        <item itemvalue="Gradle.PixelmonTeamLogger [buildDependents]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e526f450-5678-4a0f-a2f5-0bea5ce8edef" name="Default Changelist" comment="" />
+      <created>1612368550569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612368550569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="91" key="#Notifications" timestamp="1612458614128">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="398" y="91" key="#Notifications/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612458614128" />
+    <state x="536" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612444202299">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="536" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612444202299" />
+    <state width="1431" height="53" key="GridCell.Tab.0.bottom" timestamp="1612571766704">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1405" height="53" key="GridCell.Tab.0.bottom/62.0.1474.864/-3840.-746.2560.1409@-3840.-746.2560.1409" timestamp="1612530024310" />
+    <state width="1431" height="53" key="GridCell.Tab.0.bottom/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571766704" />
+    <state width="2455" height="224" key="GridCell.Tab.0.bottom/74.0.1462.864/-3778.-729.2498.1440@-3778.-729.2498.1440" timestamp="1612437831728" />
+    <state width="1419" height="115" key="GridCell.Tab.0.bottom/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612477541817" />
+    <state width="1431" height="53" key="GridCell.Tab.0.center" timestamp="1612571766704">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1405" height="53" key="GridCell.Tab.0.center/62.0.1474.864/-3840.-746.2560.1409@-3840.-746.2560.1409" timestamp="1612530024310" />
+    <state width="1431" height="53" key="GridCell.Tab.0.center/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571766704" />
+    <state width="2455" height="224" key="GridCell.Tab.0.center/74.0.1462.864/-3778.-729.2498.1440@-3778.-729.2498.1440" timestamp="1612437831727" />
+    <state width="1419" height="115" key="GridCell.Tab.0.center/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612477541817" />
+    <state width="1431" height="53" key="GridCell.Tab.0.left" timestamp="1612571766704">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1405" height="53" key="GridCell.Tab.0.left/62.0.1474.864/-3840.-746.2560.1409@-3840.-746.2560.1409" timestamp="1612530024310" />
+    <state width="1431" height="53" key="GridCell.Tab.0.left/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571766704" />
+    <state width="2455" height="224" key="GridCell.Tab.0.left/74.0.1462.864/-3778.-729.2498.1440@-3778.-729.2498.1440" timestamp="1612437831727" />
+    <state width="1419" height="115" key="GridCell.Tab.0.left/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612477541817" />
+    <state width="1431" height="53" key="GridCell.Tab.0.right" timestamp="1612571766704">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1405" height="53" key="GridCell.Tab.0.right/62.0.1474.864/-3840.-746.2560.1409@-3840.-746.2560.1409" timestamp="1612530024310" />
+    <state width="1431" height="53" key="GridCell.Tab.0.right/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571766704" />
+    <state width="2455" height="224" key="GridCell.Tab.0.right/74.0.1462.864/-3778.-729.2498.1440@-3778.-729.2498.1440" timestamp="1612437831728" />
+    <state width="1419" height="115" key="GridCell.Tab.0.right/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612477541817" />
+    <state x="308" y="75" key="SettingsEditor" timestamp="1612571729510">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571729510" />
+    <state x="502" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1612448931785">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="502" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612448931785" />
+    <state x="155" y="93" width="1288" height="678" key="dock-window-1" timestamp="1612549686259">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="dock-window-1/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612549686259" />
+    <state x="235" y="0" key="new project wizard" timestamp="1612486063727">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="235" y="0" key="new project wizard/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612486063727" />
+    <state x="246" y="0" key="new project wizard/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612437526034" />
+    <state x="462" y="197" key="run.anything.popup" timestamp="1612446667435">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="462" y="197" key="run.anything.popup/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612446667435" />
+    <state x="460" y="181" width="678" height="679" key="search.everywhere.popup" timestamp="1612536181283">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="-3149" y="-451" width="1177" height="1106" key="search.everywhere.popup/62.0.1474.864/-3840.-746.2560.1409@-3840.-746.2560.1409" timestamp="1612524408287" />
+    <state x="460" y="181" width="678" height="679" key="search.everywhere.popup/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612536181283" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612458389650" />
+  </component>
+</project>
