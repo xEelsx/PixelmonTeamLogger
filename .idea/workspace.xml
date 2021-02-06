@@ -23,7 +23,12 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PixelmonTeamLogger" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -51,7 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -137,6 +142,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="398" y="91" key="#Notifications" timestamp="1612458614128">
       <screen x="74" y="0" width="1462" height="864" />
@@ -174,10 +184,10 @@
     <state width="1431" height="53" key="GridCell.Tab.0.right/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571766704" />
     <state width="2455" height="224" key="GridCell.Tab.0.right/74.0.1462.864/-3778.-729.2498.1440@-3778.-729.2498.1440" timestamp="1612437831728" />
     <state width="1419" height="115" key="GridCell.Tab.0.right/74.0.1462.864/-3778.-729.2498.1440@74.0.1462.864" timestamp="1612477541817" />
-    <state x="308" y="75" key="SettingsEditor" timestamp="1612571729510">
+    <state x="308" y="75" key="SettingsEditor" timestamp="1612573867366">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612571729510" />
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/-3840.-746.2560.1409@62.0.1474.864" timestamp="1612573867366" />
     <state x="502" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1612448931785">
       <screen x="74" y="0" width="1462" height="864" />
     </state>

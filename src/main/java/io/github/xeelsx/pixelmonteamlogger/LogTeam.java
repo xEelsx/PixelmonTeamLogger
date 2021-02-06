@@ -208,7 +208,7 @@ public class LogTeam implements CommandExecutor {
         PreparedStatement stmt = conn.prepareStatement(sql);
         stmt.setString(1, player.getUniqueID().toString());
         stmt.executeQuery();
-        src.sendMessage(Text.builder(player.getUniqueID().toString() + "'s team has been deleted.").color(TextColors.GREEN).build());
+        src.sendMessage(Text.builder(player.getName() + "'s team has been deleted.").color(TextColors.GREEN).build());
     }
 
     @Override
